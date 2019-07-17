@@ -17,3 +17,4 @@ A和b    表示不等式约束A*x <=b中的矩阵A和向量b.
 Aeq和beq    表示等式约束Aeq*x =beq中的矩阵Aeq和向量beq.
 
 lb和ub    分别表示自变量的上下界组成的向量，如果没有上下界，该选项用[]表示，如果只有部分变量有上下界，其余的变量没有，那么可以把没有上下界的变量的上下界设为-inf或者inf使lb或者ub的长度符合要求.https://blog.csdn.net/limin_yu/article/details/80256051)
+#非线性规划（https://blog.csdn.net/limin_yu/article/details/80257186）
